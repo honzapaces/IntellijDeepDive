@@ -1,5 +1,5 @@
 # Intellij Deep Dive
-## List of used functionality and shortucts in the meetup 
+## List of used functionality and shortcuts in the meetup 
 
 PDF version [here!](https://github.com/honzapaces/IntellijDeepDive/blob/master/IntellijTips.pdf)
 
